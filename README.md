@@ -6,7 +6,7 @@ This type of analysis are useful for insurance companies to improve their policy
 
 The main goal of this analysis is to use patient information to estimate the medical care expenses that could happen in the duration of the contract. Moreover, the estimators could be used to create actuarial tables that are also mandatory under the Solvency II framework.
 
-The stricture of this repository is:
+The structure of this repository is:
 
  - **[Jupyter notebook](https://github.com/ArrigoCoen/Insurance_expenses_prediction/blob/main/medical-cost-personal-datasets.ipynb)**: in this file is the complete presentation of the business problem, analysis and recommendations.
  - **[input folder](https://github.com/ArrigoCoen/Insurance_expenses_prediction/tree/main/input)**: in this folder are stored all the input files to run the machine learning algorithms.
@@ -16,4 +16,3 @@ The stricture of this repository is:
  - **[Functions](https://github.com/ArrigoCoen/Insurance_expenses_prediction/tree/main/Functions)**: custom made functions used in this repository.
  - **[Pickles](https://github.com/ArrigoCoen/Insurance_expenses_prediction/tree/main/Pickles)**: saved variables to run the analysis as pickle files.
  - **[test](https://github.com/ArrigoCoen/Insurance_expenses_prediction/tree/main/test)**: some extra test to check debug the new versions of the code.
- 
